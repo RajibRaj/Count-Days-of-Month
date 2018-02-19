@@ -1,3 +1,3 @@
 <?php
-include_once("count_day.php");
+include_once("count-day.php");
 ?>
