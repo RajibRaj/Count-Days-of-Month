@@ -1,4 +1,4 @@
 <?php
-echo 'Hello world! Learning github :)';
+echo 'Hello world!';
 include_once("count-day.php");
 ?>
